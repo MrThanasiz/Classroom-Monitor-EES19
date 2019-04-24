@@ -8,10 +8,12 @@
 //#define FIREBASE_AUTH ""
 //#define WIFI_SSID ""
 //#define WIFI_PASSWORD ""
-#define CLASSID "104" //ID of class arduino is located.
+#define CLASSID "104" //ID of class arduino board is located.
 #define LOOPINTERVAL 0.1 //LOOP interval in minutes
+#define UTF 2 //set location timezone ex: if utf+5 change 2 to 5
+
 DHTesp dht;
-int timezone= 2 * 3600; //set location timezone ex: if utf+5 change 2 to 5
+int timezone= UTF * 3600; 
 int dst=0;
 
 //Define FirebaseESP8266 data object
