@@ -1,4 +1,4 @@
-#EESTech Challenge 2019
+# EESTech Challenge 2019
 
 An ESP8266 board collects enviromental data for classrooms & uploads them to a Firebase Database
 
