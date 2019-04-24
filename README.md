@@ -55,7 +55,7 @@ Intivitual instructions on how to install each of the Required Libraries can be 
 
 * **Thanasis S.** - [*Arduino Code*](https://github.com/MrThanasiz/EESTech-Challenge-2019) - [MrThanasiz](https://github.com/MrThanasiz)
 * **Andreas S.** - *Android Application* - 
-* **Pandelis D.** - *Control Panel/Website* - 
+* **Pandelis D.** - *Control Panel/Website* - [PantelD](https://github.com/PantelD)
 
 ## License
 
