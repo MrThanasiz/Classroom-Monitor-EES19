@@ -1,8 +1,8 @@
-# EESTech Challenge 2019
+# Classroom Monitor EESTech Challenge 2019
 
-An ESP8266 board collects enviromental data for classrooms & uploads them to a Firebase Database
+An ESP8266 board collects enviromental data for classrooms & uploads them to a Firebase Database.
 
-...More Here Soon...
+Then, an Android App can be used to monitor that data.
 
 ## Getting Started
 
